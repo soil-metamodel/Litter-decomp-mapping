@@ -39,6 +39,12 @@
 * Extract parameters from model fitting and use them to generate a global map based on climate reanalysis data and CLM litter quality data. Do this for roots and leaves.
  * Predictions of turnover generated for each model, then the maps get averaged
 
+### Models
+
+_To be converted to latex_
+
+![Alt text](equations.png?raw=true "Equations")
+
 ## Results
 
 ## Discussion
